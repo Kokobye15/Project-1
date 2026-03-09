@@ -1,2 +1,6 @@
-# Project-1
-First project
+my-project
+│
+├── README.md
+├── index.html
+├── style.css
+└── script.js
